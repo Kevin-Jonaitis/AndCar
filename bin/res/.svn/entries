@@ -1,0 +1,49 @@
+10
+
+dir
+25
+https://subversion.assembla.com/svn/android-car/bin/res
+https://subversion.assembla.com/svn/android-car
+delete
+
+
+2012-05-10T07:50:43.717383Z
+4
+kboos21
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+31a9941b-d2c0-49b6-96d5-3fb2fb7baba4
+
+drawable-hdpi
+dir
+
+
+
+delete
+
+drawable-ldpi
+dir
+
+
+
+delete
+
+drawable-mdpi
+dir
+
+
+
+delete
+

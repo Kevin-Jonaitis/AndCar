@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/android-car/!svn/ver/25/src/com/gbc/andcar
+END
+AndCarActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/android-car/!svn/ver/24/src/com/gbc/andcar/AndCarActivity.java
+END
+Controller.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/android-car/!svn/ver/25/src/com/gbc/andcar/Controller.java
+END
+CameraView.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/android-car/!svn/ver/23/src/com/gbc/andcar/CameraView.java
+END
+BluetoothService.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/android-car/!svn/ver/23/src/com/gbc/andcar/BluetoothService.java
+END
+IOIOThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/android-car/!svn/ver/25/src/com/gbc/andcar/IOIOThread.java
+END
+ServoCalculations.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/android-car/!svn/ver/25/src/com/gbc/andcar/ServoCalculations.java
+END
+BluetoothDeviceListActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/android-car/!svn/ver/23/src/com/gbc/andcar/BluetoothDeviceListActivity.java
+END

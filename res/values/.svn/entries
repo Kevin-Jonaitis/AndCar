@@ -1,0 +1,62 @@
+10
+
+dir
+25
+https://subversion.assembla.com/svn/android-car/res/values
+https://subversion.assembla.com/svn/android-car
+
+
+
+2012-05-26T01:44:21.025822Z
+15
+Kevin Jonaitis
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+31a9941b-d2c0-49b6-96d5-3fb2fb7baba4
+
+strings.xml
+file
+
+
+
+
+2012-05-25T23:42:21.488000Z
+cf11a07a179cef5fbbdfe335ac8b70bd
+2012-05-26T01:44:21.025822Z
+15
+Kevin Jonaitis
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1409
+

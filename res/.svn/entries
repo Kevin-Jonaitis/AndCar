@@ -1,0 +1,49 @@
+10
+
+dir
+25
+https://subversion.assembla.com/svn/android-car/res
+https://subversion.assembla.com/svn/android-car
+
+
+
+2012-05-26T01:44:21.025822Z
+15
+Kevin Jonaitis
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+31a9941b-d2c0-49b6-96d5-3fb2fb7baba4
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+layout
+dir
+
+menu
+dir
+
+values
+dir
+
+xml
+dir
+

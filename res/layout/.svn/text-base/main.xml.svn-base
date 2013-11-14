@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/frameLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+      
+		 <SurfaceView xmlns:android="http://schemas.android.com/apk/res/android"
+		  android:id="@+id/surface"
+		  android:layout_width="fill_parent"
+		  android:layout_height="wrap_content"/>
+        
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		  android:orientation="vertical"
+		  android:layout_width="fill_parent"
+		  android:layout_height="fill_parent">
+		  
+	         <TextView   
+	        android:id="@+id/text1"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="Hue Low"
+	        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+		    <SeekBar
+		        android:id="@+id/huelow"
+		        android:layout_width="match_parent"
+		        android:max="255"
+		        android:layout_height="wrap_content" />
+		
+		    <TextView
+		        android:id="@+id/blah"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:text="Hue high" />
+		
+		    <SeekBar
+		        android:id="@+id/huehigh"
+		        android:layout_width="match_parent"
+		        android:max="255"
+		        android:layout_height="wrap_content" />
+		
+		    <TextView
+		        android:id="@+id/textView3"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:text="Saturation Low" />
+		
+		    <SeekBar
+		        android:id="@+id/satlow"
+		        android:layout_width="match_parent"
+		        android:max="255"
+		        android:layout_height="wrap_content" />
+		
+		    <TextView
+		        android:id="@+id/blah2"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:text="Saturation High" />
+		
+		    <SeekBar
+		        android:id="@+id/satHigh"
+		        android:layout_width="match_parent"
+		        android:max="255"
+		        android:layout_height="wrap_content" />
+		
+		    <TextView
+		        android:id="@+id/textView5"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:text="Birghtness Low" />
+		
+		    <SeekBar
+		        android:id="@+id/brightLow"
+		        android:layout_width="match_parent"
+		        android:max="255"
+		        android:layout_height="wrap_content" />
+		
+		    <TextView
+		        android:id="@+id/textView6"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:text="BirghtnessHigh" />
+		
+		    <SeekBar
+		        android:id="@+id/brightHigh"
+		        android:max="255"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content" />
+		</LinearLayout>
+</FrameLayout>
+
+

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/android-car/!svn/ver/25/
+END
+jni_part.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/android-car/!svn/ver/12/jni_part.cpp
+END
+readme.textile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/android-car/!svn/ver/1/readme.textile
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/android-car/!svn/ver/23/AndroidManifest.xml
+END
+project.properties
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/android-car/!svn/ver/21/project.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/android-car/!svn/ver/2/.project
+END
+lint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/android-car/!svn/ver/9/lint.xml
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/android-car/!svn/ver/2/proguard.cfg
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/android-car/!svn/ver/8/.classpath
+END
